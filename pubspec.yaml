@@ -6,7 +6,7 @@ homepage: http://www.github.com/gurleensethi
 
 dependencies:
   http_middleware:
-    git: https://github.com/TEDConsulting/http_logger.git
+    git: https://github.com/TEDConsulting/http_middleware.git
 
 environment:
   sdk: ">=2.0.0-dev.28.0 <3.0.0"
